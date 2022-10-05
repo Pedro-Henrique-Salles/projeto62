@@ -1,0 +1,17 @@
+#carouselExampleControls{
+    width:30%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    text-align:center !important;
+
+}
+p{
+    font-size:30px;
+
+}
+body{
+    background-color: yellow !important;
+}
